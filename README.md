@@ -12,6 +12,9 @@ O que tem: Esse é um site/app  educacional com o objetivo de integrar os conte�
 
 Título do projeto: Celar
 Status do projeto (em desenvolvimento)
-Tecnologias que serão aplicadas (considere apenas as tecnologias abordadas no curso): MY SQL e Jaba
+
+Tecnologias que serão aplicadas (considere apenas as tecnologias abordadas no curso): MY SQL e Java
+
 Time de desenvolvedores: L. Pereira
+
 Objetivo do software (a que deve servir): Login e cadastro de usuario s para o site.
